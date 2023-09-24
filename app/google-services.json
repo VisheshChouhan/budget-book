@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348546987224",
+    "project_id": "smstestfinal",
+    "storage_bucket": "smstestfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348546987224:android:981528fdf53619558213ad",
+        "android_client_info": {
+          "package_name": "com.hfad.smstestfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbcVm8dGEMjTMn2DjIT_S-FVRKgPIivSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
