@@ -203,6 +203,7 @@ public class nonFinalMessages extends Fragment {
         if(acc!=null)
         {
             user = acc.getEmail();
+            assert user != null;
             user = user.substring(0, user.indexOf("@"));
         }
 
